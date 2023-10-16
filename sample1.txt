@@ -1,1 +1,3 @@
 Here I am checking by adding a new file on 16 oct for the commit.
+
+As now the text file has been added ,i am checking for the new updates for the same file.
